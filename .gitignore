@@ -2,3 +2,6 @@
 __pycache__/
 venv/
 youtube_automation.log
+ig_session.json
+instagram_session.json
+instatest.py
